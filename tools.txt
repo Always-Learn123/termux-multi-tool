@@ -23,7 +23,6 @@ https://github.com/AndroBugs/AndroBugs_Framework
 https://github.com/Alygnt/Clifty
 https://github.com/8L4NK/thechoice
 https://github.com/GManOfficial/Termu_HackingLab_Setup.git
-https://github.com/Yashvendra/Recon-X
 https://github.com/xploitstech/Xteam
 https://github.com/U7P4L-IN/OSINT
 https://github.com/Tuhinshubhra/RED_HAWK
